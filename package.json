@@ -1,0 +1,12 @@
+{
+  "name": "mortal2-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mortal2": "mortal2"
+  },
+  "keywords": [],
+  "author": "npmsomeone",
+  "license": "ISC"
+}

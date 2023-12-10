@@ -1,0 +1,4 @@
+packages: 
+  - 'packages/*' 
+  - 'examples/*'
+# 配置后，声明了 packages 和 examples 文件夹中子工程是同属一个工作空间的，工作空间中的子工程编译打包的产物都可以被其它子工程引用。
